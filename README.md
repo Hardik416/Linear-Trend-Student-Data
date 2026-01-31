@@ -1,4 +1,5 @@
-**#Student Score Forecaster (Linear Regression)**
+# Student Score Forecaster(Linear Regression)
+
 This repository features a Supervised Learning model designed to predict academic scores using Scikit-Learn through trend-line analysis and data visualization.
 
 📊 Results
