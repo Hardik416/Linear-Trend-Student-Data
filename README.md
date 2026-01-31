@@ -1,16 +1,16 @@
-# Student Score Forecaster(Linear Regression)
+# Student Score Forecaster (Linear Regression)
 
-This repository features a Supervised Learning model designed to predict academic scores using Scikit-Learn through trend-line analysis and data visualization.
+This repository contains a **Supervised Machine Learning model** built using **Scikit-Learn** to predict academic scores based on the number of hours studied.  
+The project focuses on understanding performance trends through **Linear Regression** and clear data visualization.
 
 ## 📊 Results
-Model: Linear Regression
-
-MSE: 0.125
-
-Prediction Formula: Marks = 6.21 * (Hours) + 36.33
+- **Model:** Linear Regression  
+- **MSE:** 0.125  
+- **Prediction Formula:**  
+  Marks = 6.21 × (Hours Studied) + 36.33
 
 ## 🛠️ Tech Stack
-Python (Pandas, Matplotlib)
+- Python (Pandas, Matplotlib)  
+- Scikit-Learn (Linear Regression)
 
-Scikit-Learn (Linear Regression)
 ![Model Visualization](academic_trend_analysis.png)
